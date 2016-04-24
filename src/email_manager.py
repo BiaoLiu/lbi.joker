@@ -25,7 +25,7 @@ class EmailManager():
         email_html = ''
 
         try:
-            path = os.path.join(os.path.dirname(sys.argv[0]),'smstemplate.html')
+            path = os.path.join(os.path.dirname(sys.argv[0]),'emailtemplate.html')
             file = open(path, 'r', encoding='utf8')
             email_html = file.read()
 
