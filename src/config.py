@@ -2,8 +2,8 @@
 
 # 邮箱配置
 mail_host = 'smtp.qq.com'
-mail_user = 'xxxx@qq.com'
-mail_password = 'xxxxx'
+mail_user = 'xxxxxxx@qq.com'
+mail_password = 'xxxxxxxx'
 
 # 邮件接收人
 receivers=['xxxxx@icloud.com']
